@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RoundedBorder
+comment1.params=radius
+comment1.target=RoundedBorder(int)
+comment2.params=c\ g\ x\ y\ width\ height
+comment2.target=void\ paintBorder(java.awt.Component,\ java.awt.Graphics,\ int,\ int,\ int,\ int)
+comment3.params=c
+comment3.target=java.awt.Color\ getColor(java.awt.Component)
+numComments=4

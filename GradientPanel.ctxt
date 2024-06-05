@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GradientPanel
+comment1.params=startColor\ endColor\ alpha
+comment1.target=GradientPanel(java.awt.Color,\ java.awt.Color,\ float)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=java.awt.Color\ getStartColor()
+comment4.params=startColor
+comment4.target=void\ setStartColor(java.awt.Color)
+comment5.params=
+comment5.target=java.awt.Color\ getEndColor()
+comment6.params=endColor
+comment6.target=void\ setEndColor(java.awt.Color)
+comment7.params=
+comment7.target=float\ getAlpha()
+comment8.params=alpha
+comment8.target=void\ setAlpha(float)
+numComments=9

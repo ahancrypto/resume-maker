@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LogInDialog
+comment1.params=
+comment1.target=LogInDialog()
+comment10.params=username
+comment10.target=void\ saveSignedInUser(java.lang.String)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment12.params=
+comment12.target=void\ run()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=formPanel\ label\ component
+comment4.target=void\ addFormField(javax.swing.JPanel,\ java.lang.String,\ javax.swing.JComponent)
+comment5.params=
+comment5.target=void\ signIn()
+comment6.params=userDetailsFile\ username\ password
+comment6.target=boolean\ isValidCredentials(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=userDetailsFile\ mobileOrEmail
+comment7.target=void\ saveSignedInUserDetails(java.lang.String,\ java.lang.String)
+comment8.params=userDetailsFile\ username
+comment8.target=boolean\ isNewUser(java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=boolean\ isAlreadySignedIn()
+numComments=13

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ResumeEditor
+comment1.params=name\ email\ phone\ education\ workExperience\ skills\ aboutMe\ image\ templateFileName
+comment1.target=void\ generateResume(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.awt.image.BufferedImage,\ java.lang.String)
+comment2.params=text
+comment2.target=java.lang.String\ formatAsList(java.lang.String)
+numComments=3

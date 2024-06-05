@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SuggestionsDialog
+comment1.params=parent\ suggestions
+comment1.target=SuggestionsDialog(java.awt.Frame,\ java.util.ArrayList)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=java.lang.String\ getSelectedUsername()
+numComments=4

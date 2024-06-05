@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=HomeScreen
+comment1.params=
+comment1.target=HomeScreen()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ createUI()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=filename
+comment6.target=int\ readResumeCounterFromFile(java.lang.String)
+comment7.params=galleryPanel\ imagePath\ imageLabelText
+comment7.target=void\ addImageToGallery(javax.swing.JPanel,\ java.lang.String,\ java.lang.String)
+comment8.params=e
+comment8.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment9.params=filename\ resumeCounter
+comment9.target=void\ saveResumeCounterToFile(java.lang.String,\ int)
+numComments=11

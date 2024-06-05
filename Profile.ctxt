@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Profile
+comment1.params=
+comment1.target=Profile()
+comment10.params=
+comment10.target=void\ run()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ loadCurrentUserDetails()
+comment5.params=
+comment5.target=void\ changePassword()
+comment6.params=
+comment6.target=java.lang.String\ readPasswordFromSignedInFile()
+comment7.params=username\ newPassword
+comment7.target=void\ updateUserPasswordInUserFile(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ logout()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=11
